@@ -79,7 +79,7 @@ $config['ENVIRONMENT']             = 'development';
 | WARNING: You MUST set this value!
 |
 */
-$config['base_url'] 			    = 'https://fababaer-james-paolo.onrender.com';
+$config['base_url'] 			    = 'https://jamespaolo-1.onrender.com';
 
 /*
 |--------------------------------------------------------------------------
